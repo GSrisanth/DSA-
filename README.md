@@ -35,8 +35,7 @@ dsa-practice/
 ---
 
 ## 🛠️ Languages Used
-- **Python** (main focus)  
-*(You can add other languages if you practice in multiple languages.)*
+- **Java**   
 
 ---
 
