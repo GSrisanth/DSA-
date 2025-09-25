@@ -40,7 +40,7 @@ dsa-practice/
 ---
 
 ## 🎯 Goals
-- Solve at least X problems per week  
+- Learn DSA properly
 - Build clean and efficient solutions  
 - Document explanations alongside code for future reference  
 
@@ -61,7 +61,6 @@ If you’d like to contribute:
 - [LeetCode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [HackerRank](https://www.hackerrank.com/)
-- *CLRS - Introduction to Algorithms*
 
 ---
 
