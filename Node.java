@@ -29,36 +29,36 @@
 // Pre order traversal
 
 
-public class Node{
-    int data;
-    Node left, right;
-    public Node(int key){
-        data = key;
-        left = right = null;
-    } 
-}
-class BinaryTree{
-    Node root;
+// public class Node{
+//     int data;
+//     Node left, right;
+//     public Node(int key){
+//         data = key;
+//         left = right = null;
+//     } 
+// }
+// class BinaryTree{
+//     Node root;
     
-    void preorder(Node node){
-        if(node == null){
-            return;
-        }
-        System.out.println(node.data + " ");
-        preorder(node.left);
-        preorder(node.right);
-    }
-    public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree();
-        tree.root = new Node(1);
-        tree.root.left = new Node(2);
-        tree.root.right = new Node(3);
-        tree.root.left.left = new Node(4);
-        tree.root.left.right = new Node(5);
-        System.out.println("preorder Traversal :");
-        tree.preorder(tree.root);
-    }
+//     void preorder(Node node){
+//         if(node == null){
+//             return;
+//         }
+//         System.out.println(node.data + " ");
+//         preorder(node.left);
+//         preorder(node.right);
+//     }
+//     public static void main(String[] args) {
+//         BinaryTree tree = new BinaryTree();
+//         tree.root = new Node(1);
+//         tree.root.left = new Node(2);
+//         tree.root.right = new Node(3);
+//         tree.root.left.left = new Node(4);
+//         tree.root.left.right = new Node(5);
+//         System.out.println("preorder Traversal :");
+//         tree.preorder(tree.root);
+//     }
     
-}
+// }
 
 
