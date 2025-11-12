@@ -48,3 +48,6 @@ public class Quick{
         System.out.println();
     }
 }
+
+
+
