@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Arrays;
 
 class Sort{
     static void selectionSort(int[] arr){
