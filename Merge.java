@@ -1,6 +1,6 @@
 // Merge Sort
 
-import java.util.*;
+
 
 public class Merge{
     public static void conquer(int arr[], int si, int mid, int ei){

@@ -1,6 +1,6 @@
 // Quick Sort
 
-import java.util.*;
+
 public class Quick{
 
     public static int partition ( int arr[] , int low , int high){

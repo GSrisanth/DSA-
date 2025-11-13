@@ -1,6 +1,6 @@
 // Selection sort
 
-import java.util.Arrays;
+
 
 class Selection{
     static void selectionSort(int[] arr){
